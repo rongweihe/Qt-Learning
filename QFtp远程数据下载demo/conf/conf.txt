@@ -1,0 +1,6 @@
+#服务器数据FTP路径,示例FTP路径：ftp://yonghuming:mima@192.168.0.4:21
+FTP_PATH = ftp://192.168.1.172:21
+#服务器数据FTP路径,示例FTP路径：ftp://yonghuming:mima@192.168.0.4:21
+FTP_USERNAME = root
+#服务器数据FTP路径,示例FTP路径：ftp://yonghuming:mima@192.168.0.4:21
+FTP_USERPASSWD = testftp
